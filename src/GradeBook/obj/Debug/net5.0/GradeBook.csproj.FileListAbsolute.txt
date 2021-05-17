@@ -1,0 +1,15 @@
+/Users/andela/Documents/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/Users/andela/Documents/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/Users/andela/Documents/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/Users/andela/Documents/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/Users/andela/Documents/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/Users/andela/Documents/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/Users/andela/Documents/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csprojAssemblyReference.cache
+/Users/andela/Documents/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andela/Documents/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/Users/andela/Documents/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/Users/andela/Documents/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/andela/Documents/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/Users/andela/Documents/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/Users/andela/Documents/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/Users/andela/Documents/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
